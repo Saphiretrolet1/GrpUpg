@@ -1,0 +1,70 @@
+.map-container-section {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container-section iframe {
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+.blue.accent-1 {
+    background-color: #82ad8e !important;
+}
+.form-header{
+	background-color:#82ad8e;
+	color:#fff;
+	
+
+padding: 1rem;
+
+margin-top: -3.13rem;
+
+margin-bottom: 3rem;
+
+color: #fff;
+
+text-align: center;
+
+/*border-radius: .125rem;*/
+
+-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+
+box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+	
+}
+.card {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+div#map-container-section {
+    margin-right: 85px;
+}
+.btn-floating {
+   
+    margin: 10px;
+        vertical-align: middle;
+    
+    border-radius: 50%;
+   
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    width: 47px;
+    height: 47px;
+}
+.fa, .fas {
+    font-weight: 900;
+    color: #fff;
+	padding-top: 14px;
+}
+p.mb-md-0 {
+    padding-bottom: 30px;
+}
+.btn-light-blue {
+    color: #fff;
+    background-color: #82ad8e !important;
+}
